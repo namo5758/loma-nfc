@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    display: flex;
+    background-color: rgb(181, 213, 214);
+    color: white;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+.header img{
+    height: 60px;
+    width: 75px;
+    margin: 10px;
+}
